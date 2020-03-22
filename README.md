@@ -5,6 +5,7 @@
 1. Open console
 1. Execute:
 
+
         cd ~ && git clone https://github.com/Somos-Networks/UniFi-API-client project --branch dev && cd ./project && sudo chmod +x ./deploy.sh && sudo ./deploy.sh
         
 Tested on Ubuntu 18.04.3 LTS (x64), DigitalOcean.
@@ -23,4 +24,6 @@ Tested on Ubuntu 18.04.3 LTS (x64), DigitalOcean.
   1. Move to project folder
   1. Execute:
   
+
         php src/examples/list_alarms.php
+

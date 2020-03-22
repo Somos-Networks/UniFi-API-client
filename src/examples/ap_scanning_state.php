@@ -9,7 +9,9 @@
 require_once __DIR__ . '/../config.php';
 
 /**
+
  * MAC address of AP to query
+
  * https://github.com/Art-of-WiFi/UniFi-API-client#important-notes
  */
 $ap_mac  = '<enter MAC address of Access Point to check>';
