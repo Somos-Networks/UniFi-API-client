@@ -24,10 +24,10 @@ class Client
     /**
      * private and protected properties
      */
-    protected $baseurl             = 'https://127.0.0.1:8443';
-    protected $user                = '';
-    protected $password            = '';
-    protected $site                = 'default';
+    protected $baseurl             = 'https://somos-dev.uicontroller.com:8443';
+    protected $user                = 'somos-dev-main';
+    protected $password            = 'j!YRoJ29Xzk9CT^w';
+    protected $site                = 'bls1mrgk';
     protected $version             = '5.6.39';
     protected $debug               = false;
     protected $is_loggedin         = false;
