@@ -28,3 +28,22 @@ Tested on Ubuntu 18.04.3 LTS (x64), DigitalOcean.
   1. Execute:
   
          php src/examples/list_alarms.php
+        
+        
+## Auth Client
+  1. Open console
+  1. Move to project folder
+  1. Execute:
+  
+       `php src/examples/auth_guest_bacic.php`
+ 
+### Configuring guest auth
+
+Modify the below variables in [src/examples/auth_guest_bacic.php](src/examples/auth_guest_bacic.php)
+
+       $mac = 'xxxxxx';
+       
+       $ap_mac = 'xxxxx';
+       
+       $duration = xxxx;
+       
