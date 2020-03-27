@@ -39,7 +39,7 @@ Tested on Ubuntu 18.04.3 LTS (x64), DigitalOcean.
  
 ### Configuring guest auth
 
-Modify the below variables in [src/examples/auth_guest_basic.php](src/examples/auth_guest_bacic.php)
+Modify the below variables in [src/examples/auth_guest_basic.php](src/examples/auth_guest_basic.php)
 
        $mac = 'xxxxxx';
        
