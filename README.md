@@ -47,3 +47,5 @@ Modify the below variables in [src/examples/auth_guest_basic.php](src/examples/a
        
        $duration = xxxx;
        
+See [src/examples/auth_guest_forrest_samsung.php](src/examples/auth_guest_forrest_samsung.php) for configured example.
+       
