@@ -11,7 +11,6 @@ require_once __DIR__ . '/../config.php';
 /**
  * the MAC address of the device to authorize
  */
-$mac = '<20:32:6c:f8:a7:c8&t>';
 
 /**
  * the MAC address of the Access Point the guest is currently connected to, enter null (without quotes)
