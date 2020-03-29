@@ -11,7 +11,10 @@
        && sudo chmod +x ./deploy.sh \
        && sudo ./deploy.sh
 
-Tested on Ubuntu 18.04.3 LTS (x64), DigitalOcean.
+Tested on:
+Ubuntu 18.04.3 LTS (x64), DigitalOcean
+Ubuntu t2.micro (x64), AWS
+
 
 
 ## Structure
