@@ -21,12 +21,12 @@ $mac = '20:32:6c:f8:a7:c8';
  * although the AP MAC address is not a required parameter for the authorize_guest() function,
  * adding this parameter will speed up the initial authorization process
  */
-$ap_mac = '18:e8:29:fa:a4:fa';
+$ap_mac = '74:83:c2:96:75:1b';
 
 /**
  * the duration to authorize the device for in minutes
  */
-$duration = 5;
+$duration = 1;
 
 /**
  * initialize the UniFi API connection class and log in to the controller
