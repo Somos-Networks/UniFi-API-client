@@ -8,7 +8,7 @@
 
 require_once __DIR__ . '/../config.php';
 
-$start = 1572584400;
+$end = 1581465600000;
 
 /**
  * initialize the UniFi API connection class and log in to the controller and do our thing
