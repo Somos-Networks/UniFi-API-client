@@ -55,4 +55,8 @@ See [src/examples/auth_guest_forrest_samsung.php](src/examples/auth_guest_forres
 
 
 `php src/examples/auth_guest_forrest_samsung.php`
-       
+
+### List daily site stats
+```
+php src/examples/list_daily_site_stats.php
+```
